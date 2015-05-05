@@ -1,8 +1,16 @@
 .octocat img {
-	height: 100px;
+	height: 350px;
+}
+
+.octocat {
+	float: left;
 }
 
 .authors img {
 	height: 25px;
 	width: 25px;
+}
+
+ul .octodex {
+	float: left;
 }
