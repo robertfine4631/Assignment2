@@ -1,9 +1,12 @@
 .octocat img {
 	height: 350px;
+	border: 1px solid gray;
+	margin: 10px;
 }
 
 .octocat {
 	float: left;
+
 }
 
 .authors img {
@@ -12,5 +15,5 @@
 }
 
 ul .octodex {
-	float: left;
+	float: right;
 }
