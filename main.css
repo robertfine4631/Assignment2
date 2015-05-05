@@ -1,7 +1,11 @@
+ul {
+	list-style: none;
+}
+
 .octocat img {
 	height: 350px;
-	border: 1px solid gray;
-	margin: 10px;
+	border: 1px solid #d6d6d6;
+	margin-right: 10px;
 }
 
 .octocat {
@@ -12,8 +16,16 @@
 .authors img {
 	height: 25px;
 	width: 25px;
+	border-radius: 5px;
+	position: relative;
 }
 
 ul .octodex {
 	float: right;
+}
+
+.image-caption {
+	float: right;
+	display: inline;
+	list-style-position: inline;
 }
